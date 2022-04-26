@@ -1,0 +1,5 @@
+#支付寶
+host-suffix, alipay.com, 🇨🇳Taiwan
+#微信
+user-agent, WeChat*, 🇨🇳Taiwan
+host-suffix, servicewechat.com, 🇨🇳Taiwan
