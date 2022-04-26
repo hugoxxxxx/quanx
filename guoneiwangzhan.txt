@@ -15,7 +15,7 @@ user-agent, %E4%BC%98%E9%85%B7*, Domestic
 host-suffix, alibaba.com, Domestic
 host-suffix, alicdn.com, Domestic
 host-suffix, alikunlun.com, Domestic
-host-suffix, alipay.com, 🇨🇳Taiwan
+#host-suffix, alipay.com, 🇨🇳Taiwan
 host-suffix, amap.com, Domestic
 host-suffix, autonavi.com, Domestic
 host-suffix, dingtalk.com, Domestic
@@ -138,7 +138,7 @@ host-suffix, sogou.com, Domestic
 host-suffix, sogoucdn.com, Domestic
 # > Tencent
 user-agent, MicroMessenger%20Client, Domestic
-user-agent, WeChat*, 🇨🇳Taiwan
+#user-agent, WeChat*, 🇨🇳Taiwan
 user-agent, %E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*, Domestic
 host-suffix, gtimg.com, Domestic
 host-suffix, idqqimg.com, Domestic
@@ -147,7 +147,7 @@ host-suffix, myapp.com, Domestic
 host-suffix, myqcloud.com, Domestic
 host-suffix, qq.com, Domestic
 host-suffix, qqmail.com, Domestic
-host-suffix, servicewechat.com, 🇨🇳Taiwan
+#host-suffix, servicewechat.com, 🇨🇳Taiwan
 host-suffix, tencent.com, Domestic
 host-suffix, tencent-cloud.net, Domestic
 host-suffix, tenpay.com, Domestic
