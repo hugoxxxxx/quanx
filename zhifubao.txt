@@ -1,0 +1,2 @@
+#支付寶
+host-suffix, alipay.com, Global
