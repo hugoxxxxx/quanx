@@ -1,7 +1,7 @@
 const BASE_URL = 'https://www.youtube.com/premium'
 
 const link = { "media-url": "https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Youtube.png" } 
-const policy_name = "YouTube" //填入你的 youtube 策略组名
+const policy_name = "🎬 YouTube" //填入你的 youtube 策略组名
 
 const arrow = "➟"
 var output = ""
