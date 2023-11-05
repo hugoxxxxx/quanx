@@ -1,3 +1,3 @@
 #gmail
-host-suffix, gmail.com,
-host-suffix, mail.me.com,
+host-suffix, gmail.com, Global
+host-suffix, mail.me.com, Global
