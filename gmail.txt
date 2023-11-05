@@ -1,0 +1,2 @@
+#gmail
+host-suffix, gmail.com, Global
